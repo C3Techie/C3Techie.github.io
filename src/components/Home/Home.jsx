@@ -29,7 +29,7 @@ class Home extends Component {
             </div>
             <div className="header-btns">
                 <Link className="btn btn-white" to="/about">
-                    <p className="btn-text">Explore my technical skills</p>
+                    <p className="btn-text">Background</p>
                 </Link>
                 <Link className="btn btn-transparent" to="/contact">
                     <p className="btn-text">Get in touch</p>
