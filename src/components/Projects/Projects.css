@@ -42,17 +42,22 @@
 }
 .project-heading{
     margin: 0;
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 .project-details{
     font-weight: 300;
     font-size: 16px;
     line-height: 25px;
     color: #7d7987;
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 .project-live-link{
     font-weight: 600;
     color: #4089ed;
 }
+
 @media only screen and (max-width:640px) {
     .project-cards-container{
         padding: 20px;
