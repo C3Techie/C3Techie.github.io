@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdbfd859.css",
+    "main.js": "/static/js/main.266fc657.js",
+    "static/media/about_anime.gif": "/static/media/about_anime.986764c2696118dcbe90.gif",
+    "static/media/home_anime.gif": "/static/media/home_anime.f372ef867ab6dc71a52b.gif",
+    "static/media/healthhaven.png": "/static/media/healthhaven.5ae95af379d083931c14.png",
+    "static/media/fanfaction.png": "/static/media/fanfaction.0342b65ee7f086328788.png",
+    "static/media/skills_vector.png": "/static/media/skills_vector.1fb5f4a4d14c368c84df.png",
+    "static/media/about_vector.png": "/static/media/about_vector.c42fe3db5738a7e28724.png",
+    "static/media/contact_anime.png": "/static/media/contact_anime.1f3936c4dbee6daaaa77.png",
+    "static/media/thinkytots.png": "/static/media/thinkytots.bf195d147d0d146e3163.png",
+    "static/media/hng_boilerplate_java_web.png": "/static/media/hng_boilerplate_java_web.6fcba0967c90d8ea7379.png",
+    "static/media/web-calculator.png": "/static/media/web-calculator.ae5cda9b0a22ffd6081d.png",
+    "static/media/x.png": "/static/media/x.d74d7cef2155f5a3d688.png",
+    "static/media/react.png": "/static/media/react.7e9e8696236ea972d4f5.png",
+    "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "index.html": "/index.html",
+    "main.cdbfd859.css.map": "/static/css/main.cdbfd859.css.map",
+    "main.266fc657.js.map": "/static/js/main.266fc657.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdbfd859.css",
+    "static/js/main.266fc657.js"
+  ]
+}
